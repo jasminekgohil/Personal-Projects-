@@ -1,4 +1,3 @@
-# Personal-Projects
 # QWE Case Study on Customer Churn Analysis 
 
 In a world where customer loyalty feels as fleeting as a summer breeze, Company QWE faced the chilling reality of customer churn: watching valuable relationships slip through their fingers each month. This BA815 case study, however, strikes back, not just predicting customer departures with laser-sharp accuracy, but arming QWE with the power to proactively save them.
